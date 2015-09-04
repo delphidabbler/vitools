@@ -10,10 +10,10 @@ They are:
 * [delphidabbler/vispy](https://github.com/delphidabbler/vispy) - Version Information Spy for Windows that displays all version information stored in a Windows program's resources.
 * [delphidabbler/vilib](https://github.com/delphidabbler/vilib) - Version Information Library for Windows that is a DLL that provides services to read/write version information in a Windows binary resource file.
 
-# Downloads
+## Downloads
 
 Binary releases of these projects can be downloaded from their respective GitHub project "releases" tabs.
 
-# Issues
+## Issues
 
 Issues can no longer be reported against the old over-arching verinfo-tools project, and nor can you create an issue for this project. Instead create an issue against the relevant project above
